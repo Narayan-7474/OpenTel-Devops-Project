@@ -54,3 +54,4 @@ test/tracetesting/tracetesting-vars.yaml
 *.apk
 
 !src/currency/build
+kubernetes/awscliv2.zip
